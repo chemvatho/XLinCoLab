@@ -62,6 +62,8 @@ mne, numpy, pandas, scipy, matplotlib, seaborn, scikit-learn
 
 **Notebook:** [`Speech_Recording_Analysis.ipynb`](./Speech_Recording_Analysis.ipynb)
 
+<img src="https://github.com/chemvatho/XLinCoLab/blob/main/speech_recording_analysis/animated_riverbank_flowing-4.gif" alt="riverbank" width="800"/>
+
 A complete acoustic phonetics pipeline using Praat (via Parselmouth) and librosa for analyzing speech recordings.
 
 ### Features
