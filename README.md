@@ -38,6 +38,9 @@ A comprehensive pipeline for processing electroencephalography (EEG) data in lin
 - **Statistical Analysis:** T-tests, effect sizes (Cohen's d), condition comparisons
 - **Visualization:** Multi-channel ERP plots, topographic maps, TFR spectrograms
 
+  <img src="https://github.com/chemvatho/XLinC-Lab/blob/main/EEG_results/erp_comparison.png" alt="erp comparison" width="50"/>
+
+
 ### Sample Output
 ```
 Statistical Results at Electrode Pz
