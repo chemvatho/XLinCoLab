@@ -1,0 +1,4 @@
+Analysis,Effect,Statistic,p_value,Effect_Size,Interpretation
+Lexicality,-60.7 ms,t = -21.76,1.9202e-101,d = -0.59,Words faster than nonwords
+Frequency,-73.7 ms,t = -23.79,7.5179e-118,d = -0.72,High freq faster than low freq
+Priming,22.9 ms,t = -6.99,3.0769e-12,d = 0.21,Related primes facilitate

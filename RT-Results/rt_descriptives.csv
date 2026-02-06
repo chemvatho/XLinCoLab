@@ -1,0 +1,5 @@
+frequency,priming,N,Mean,SD,Median,Min,Max,SE
+high,related,1137,528.9,107.9,509.8,298.9,968.5,3.2
+high,unrelated,1126,548.6,102.1,534.3,320.4,922.8,3.04
+low,related,1075,599.6,99.8,587.0,355.7,925.7,3.04
+low,unrelated,1086,625.1,99.0,611.5,367.1,989.2,3.0
