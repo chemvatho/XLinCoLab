@@ -60,7 +60,7 @@ mne, numpy, pandas, scipy, matplotlib, seaborn, scikit-learn
 
 ## 🎤 Speech Recording Analysis
 
-**Notebook:** [`Speech_Recording_Analysis.ipynb`](./Speech_Recording_Analysis.ipynb)
+**Notebook:** [`Speech_Recording_Analysis.ipynb`](./Notebook/Speech_Recording_Analysis.ipynb)
 
 <img src="https://github.com/chemvatho/XLinCoLab/blob/main/speech_recording_analysis/animated_riverbank_flowing-4.gif" alt="riverbank" width="800"/>
 
