@@ -73,7 +73,7 @@ A complete acoustic phonetics pipeline using Praat (via Parselmouth) and librosa
 - **Visualization:** Spectrograms, formant tracks, F1-F2 vowel space plots
 - **Batch Processing:** Automated pipeline for multiple audio files
 
-<img src="https://github.com/chemvatho/XLinCoLab/blob/main/speech_recording_analysis/formants_animation_with_custom_arrows.gif" alt="diphthong" width="800"/>
+<img src="https://github.com/chemvatho/XLinCoLab/blob/main/speech_recording_analysis/diphthongs.gif" alt="diphthong" width="800"/>
 
 
 ### Sample Output
