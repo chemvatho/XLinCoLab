@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **Supervisors:** Prof. Dr. Martine Grice & PD Dr. Constantijn Kaland (University of Cologne)
-- **Mentor** Prof. Dr. Reinhold Greisbach (University of Cologne)
+- **Mentor:** Prof. Dr. Reinhold Greisbach & T. Mark Ellison (University of Cologne)
 - **Funding:** KAAD (Katholischer Akademischer Ausländer-Dienst)
 - **Tools:** [Praat](https://www.fon.hum.uva.nl/praat/), [MNE-Python](https://mne.tools/), [librosa](https://librosa.org/)
 
