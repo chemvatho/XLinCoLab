@@ -16,6 +16,9 @@ Comprehensive data analysis pipelines for experimental linguistic research, cove
 
 This repository contains analysis pipelines developed for the **Experimental Service Hub** at the Data Center for the Humanities (DCH), University of Cologne. Each notebook provides a complete, reproducible workflow from data loading to statistical analysis and visualization.
 
+<img src="https://github.com/chemvatho/XLinCoLab/blob/main/speech_recording_analysis/teang_careful-4.png" alt="diphthong" width="800"/>
+
+
 | Pipeline | Data Type | Key Methods |
 |----------|-----------|-------------|
 | [EEG Analysis](#eeg-analysis) | EEG recordings | ERP analysis, time-frequency decomposition |
