@@ -281,6 +281,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 🙏 AI Assisted tools
+
+The repository was developed with the assistance of Claude (Anthropic), which supported logical reasoning and algorithm design. Its integration with NotebookLM led to the creation of a pilot project, which is documented on GitHub.
+
 <p align="center">
   <i>Developed for the Experimental Service Hub, Data Center for the Humanities (DCH)</i><br>
   <i>University of Cologne, Germany</i>
