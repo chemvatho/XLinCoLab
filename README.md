@@ -246,9 +246,9 @@ experimental-linguistics-pipelines/
 
 ## 📚 Related Publications
 
-- Chem, V. (in prep.). Adapting forced alignment for Khmer, a low-resource language.
-- Chem, V. (in prep.). The Illustration of IPA: Khmer (Phnom Penh Dialect). *Journal of the IPA*.
-- Chem, V. (2020). Khmer Vowel System: Structure and Variation. *CJBAR*, 2(2).
+- Chem, Vatho. (in prep.). Adapting forced alignment for Khmer, a low-resource language.
+- Chem, Vatho. (in prep.). The Illustration of IPA: Khmer (Phnom Penh Dialect). *Journal of the IPA*.
+- Chem, Vatho. (2020). Khmer Vowel System: Structure and Variation. *CJBAR*, 2(2).
 
 ---
 
